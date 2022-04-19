@@ -1,0 +1,11 @@
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\bin\Debug\capa_negocio.dll
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\bin\Debug\capa_negocio.pdb
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\bin\Debug\capa_datos.dll
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\bin\Debug\capa_entidad.dll
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\bin\Debug\capa_datos.pdb
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\bin\Debug\capa_entidad.pdb
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\obj\Debug\capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\obj\Debug\capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\obj\Debug\capa_presentacion.csproj.CopyComplete
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\obj\Debug\capa_negocio.dll
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_negocio\obj\Debug\capa_negocio.pdb

@@ -1,0 +1,6 @@
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_entidad\obj\Debug\capa_logica.csproj.AssemblyReference.cache
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_entidad\obj\Debug\capa_logica.csproj.CoreCompileInputs.cache
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\CAMIL\source\repos\InterfazBiblioteca\capa_entidad\obj\Debug\capa_entidad.pdb
